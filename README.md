@@ -14,98 +14,24 @@ If you're here to explore what I build — welcome.
 ---
 
 ## Tech stack
+### 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 
-<!-- ===== FRONTEND ===== -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<div style="display:flex; gap:18px; flex-wrap:wrap; justify-content:center;">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 
-  <!-- React -->
-  <div title="React" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">React</div>
-  </div>
-
-  <!-- TS -->
-  <div title="TypeScript" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">TypeScript</div>
-  </div>
-
-  <!-- Tailwind -->
-  <div title="Tailwind" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Tailwind</div>
-  </div>
-
-
-<!-- ===== BACKEND ===== -->
-
-  <!-- Node -->
-  <div title="Node.js" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Node.js</div>
-  </div>
-
-  <!-- Express -->
-  <div title="Express.js" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Express</div>
-  </div>
-
-  <!-- Socket.io -->
-  <div title="Socket.IO" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Socket.IO</div>
-  </div>
-
-
-
-<!-- ===== DATABASE ===== -->
-
-  <!-- MongoDB -->
-  <div title="MongoDB" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">MongoDB</div>
-  </div>
-
-  <!-- Mongoose -->
-  <div title="Mongoose" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/mongoose.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Mongoose</div>
-  </div>
-
-<!-- </div> -->
-
-<!-- --- -->
-
-<!-- ===== DEPLOYMENT & TOOLS ===== -->
-<!-- ### ⚙️ Deployment & Tools -->
-<!-- <div style="display:flex; gap:18px; flex-wrap:wrap; justify-content:center;"> -->
-
-  <!-- Netlify -->
-  <div title="Netlify" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Netlify</div>
-  </div>
-
-  <!-- Render -->
-  <div title="Render" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/render.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Render</div>
-  </div>
-
-  <!-- Git -->
-  <div title="Git" style="width:110px; padding:14px; border:1.4px solid #dcdcdc; border-radius:14px; text-align:center;">
-    <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-    <div style="margin-top:6px; font-size:14px;">Git</div>
-  </div>
-
-</div>
-
-</div>
-
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ## Projects
 
